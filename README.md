@@ -15,7 +15,7 @@ It demonstrates how to interact with the Gemini model in Python using streaming 
 ---
 
 ## Features
-- Uses **Gemini 2.5 Flash** model. (mode is customizable)
+- Uses **Gemini 2.5 Flash** model. (model is customizable)
 - Streams output as the model generates text.
 - Loads the API key securely from a `.env` file.
 - Minimal and easy-to-understand example — perfect as a starter project.
