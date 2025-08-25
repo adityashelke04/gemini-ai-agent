@@ -19,7 +19,7 @@ def generate():
         types.Content(
             role="user",
             parts=[
-                types.Part.from_text(text="write an email in 30 words to my best friend Mahesh"),
+                types.Part.from_text(text="""INSERT_INPUT_HERE"""),
             ],
         ),
     ]
@@ -42,3 +42,4 @@ def generate():
 
 if __name__ == "__main__":
     generate()
+
