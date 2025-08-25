@@ -34,4 +34,4 @@ It demonstrates how to interact with the Gemini model in Python using streaming 
 # Installation
 - Install the neccessary packages.
 - In .env file, update your_api_key and save it.
-- Change """INSERT_INPUT_HERE""" accordingly and thats it!!!
+- Change """INSERT_INPUT_HERE""" in gemini.py accordingly and thats it!!!
