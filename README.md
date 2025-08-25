@@ -1,6 +1,9 @@
 # gemini-ai-agent
 🚀 A simple Python project demonstrating how to build an AI agent with Google’s Gemini API. It uses google-genai and python-dotenv to securely load your API key and stream model responses. Perfect as a starter template for experimenting with Gemini models.
 
+# Demo OUTPUT
+![image alt](https://github.com/adityashelke04/gemini-ai-agent/blob/dc76602446b9728b21ecf72ff696ab290abcede0/screenshots/Screenshot%202025-08-25%20204551.png)
+
 # PACKAGES TO INSTALL:
 
 pip install google-genai,
