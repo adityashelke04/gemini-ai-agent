@@ -30,3 +30,8 @@ It demonstrates how to interact with the Gemini model in Python using streaming 
 - [Google Gemini API key](https://aistudio.google.com/app/apikey)
 
 ---
+
+# Installation
+- Install the neccessary packages.
+- In .env file, update your_api_key and save it.
+- Change """INSERT_INPUT_HERE""" accordingly and thats it!!!
